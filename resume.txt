@@ -1,0 +1,11 @@
+REPLACE THIS FILE WITH YOUR OWN RESUME TEXT (copy-paste from your PDF).
+
+Example:
+Name: Your Name
+Education: B.Tech ECE, 2027, CGPA 9.x
+Skills: JavaScript, React, Node.js, Express, MongoDB, HTML/CSS, Git, Python, SQL
+Projects:
+- Retail ERP web app (React, Node.js, MongoDB): inventory, billing, role-based access
+- CRM for a real-estate client: lead tracking, Excel import, dashboards
+- Browser extension: job application autofill and tracker
+- Deepfake voice detection (hackathon): Python, ML model, real-time audio
