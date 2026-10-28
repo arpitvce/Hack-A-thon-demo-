@@ -1,0 +1,47 @@
+[
+  {
+    "id": "s1",
+    "title": "Junior Full Stack Developer",
+    "company": "Pixelwave Labs",
+    "location": "Hyderabad",
+    "url": "sample://s1",
+    "snippet": "Looking for a fresher full stack developer with React and Node.js skills.",
+    "full_description": "Pixelwave Labs is hiring a Junior Full Stack Developer (0-1 yrs). Must have: React, Node.js, Express, MongoDB, REST APIs, Git. Good to have: TypeScript, Docker, AWS basics. You will build dashboards for SaaS clients and work in 2-week sprints."
+  },
+  {
+    "id": "s2",
+    "title": "Frontend Developer (React) - Fresher",
+    "company": "Nimbus Retail Tech",
+    "location": "Hyderabad",
+    "url": "sample://s2",
+    "snippet": "React developer to build e-commerce UIs. Freshers welcome.",
+    "full_description": "Nimbus Retail Tech needs a React developer for e-commerce storefronts. Must have: React, JavaScript, HTML/CSS, Tailwind, consuming REST APIs. Good to have: Next.js, Redux, testing with Jest."
+  },
+  {
+    "id": "s3",
+    "title": "Backend Developer - Python",
+    "company": "Ledgerly Fintech",
+    "location": "Bengaluru",
+    "url": "sample://s3",
+    "snippet": "Python backend role building payment APIs.",
+    "full_description": "Ledgerly is hiring a Backend Developer. Must have: Python, Django or FastAPI, PostgreSQL, REST API design, unit testing. Good to have: Kafka, Redis, Kubernetes. 0-2 years experience."
+  },
+  {
+    "id": "s4",
+    "title": "AI Engineer Intern (LLM Agents)",
+    "company": "Cortexa AI",
+    "location": "Hyderabad",
+    "url": "sample://s4",
+    "snippet": "Intern to build LLM agents with tool calling and RAG.",
+    "full_description": "Cortexa AI is looking for an AI Engineer Intern. Must have: Python, LLM APIs (OpenAI/Anthropic), prompt engineering, basic RAG. Good to have: LangGraph, vector databases, FastAPI. 6-month internship with PPO."
+  },
+  {
+    "id": "s5",
+    "title": "Software Developer Trainee",
+    "company": "Sriven Systems",
+    "location": "Hyderabad",
+    "url": "sample://s5",
+    "snippet": "Trainee developer, Java or JavaScript, on-the-job training.",
+    "full_description": "Sriven Systems hires Software Developer Trainees. Must have: any one of Java or JavaScript, DSA fundamentals, SQL basics, good communication. Training provided. 2027 graduates eligible."
+  }
+]
